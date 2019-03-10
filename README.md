@@ -13,4 +13,9 @@
 <p> Technology Stack - Scikit-learn,numpy,pandas,matplotlib,C5.0(CART)</p>
 
 # K clustering of Diabetes dataset
+<p>1)Executed K means Clustering with different values of clusters.
+<p>2)Used Elbow method to determine the optimal number of clusters which came out to be 10.
+<p>3)Executed Hierarchical Clustering with single,complete,average and wards distance.
+<p>4)Used Cophenetic correlation Coefficient to compare the linkages resulting in Average linkage to be best with 0.8653.</p>
+
 # Final Project
