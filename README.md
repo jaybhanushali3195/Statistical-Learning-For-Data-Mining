@@ -1,1 +1,1 @@
-# Statistical-Learning-For-Data-Mining
+# Statistical Learning For Data Mining
