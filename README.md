@@ -18,4 +18,12 @@
 <p>3)Executed Hierarchical Clustering with single,complete,average and wards distance.
 <p>4)Used Cophenetic correlation Coefficient to compare the linkages resulting in Average linkage to be best with 0.8653.</p>
 
-# Final Project
+# Final Project(Application in prediction of minority class in unbalanced data)
+<p>1)Performed Descriptive and Exploratory analysis on the data given.
+<p>2)Preprocessed data using techniques like One hot encoding.
+<p>3)Applied Upsampling techniques(SMOTE) since the data was unbalanced with a minority class.
+<p>4)Test Various algorithms like Logistic regression,XGBoost,SVM with GridSearch method to optimize their parameters.
+<p>5)Models were evaluated on the basis of Balanced error rate,which is average rate on each class.
+<p>6)Random forest model gave the best results with the accuracy of 80%
+
+Technology Stack - SMOTE,pandas,scikit-learn,numpy,XGboost,Logistic regression,matplotlib.
