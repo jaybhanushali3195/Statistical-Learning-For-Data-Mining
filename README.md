@@ -5,6 +5,11 @@
 <p>3)Model resulted in 55% accuracy on the test data saying that this would not be a good model for such data.
 <p> Technology Stack - Scikit- Learn,matplotlib,numpy </p>
 
-# Decision tree classifier for pima_indians_diabetes dataset
+# Classification of Diabetes dataset using Decision tree,SVM,Regression Tree model.
+<p>1)A decision tree classifier,SVM,Regression Tree models were built and GridSearch Method was used to optimal values of parameters.
+<p>2)A suitable model was selected for classification considering the tradeoff between Bias and Variance.
+<p>3)The Models were evaluated on the basis of Confusion matrix,Precision, Recall and Area Under ROC.
+<p>4)Decision Tree Classifier gave Testing accuracy of 71.8%,SVM -70.56%,Rregression Tree model - 35.5%
+
 # K clustering of Diabetes dataset
 # Final Project
