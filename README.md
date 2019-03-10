@@ -10,6 +10,7 @@
 <p>2)A suitable model was selected for classification considering the tradeoff between Bias and Variance.
 <p>3)The Models were evaluated on the basis of Confusion matrix,Precision, Recall and Area Under ROC.
 <p>4)Decision Tree Classifier gave Testing accuracy of 71.8%,SVM -70.56%,Rregression Tree model - 35.5%
+<p> Technology Stack - Scikit-learn,numpy,pandas,matplotlib,C5.0(CART)</p>
 
 # K clustering of Diabetes dataset
 # Final Project
